@@ -68,6 +68,8 @@ I’ve worked as an **SDE Intern at Win Webtech**, where I contributed to produc
 * **Email:** [sumanshaw98765@gmail.com](mailto:sumanshaw98765@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/shaw-tech/](https://www.linkedin.com/in/shaw-tech/)
 * **GitHub:** [https://github.com/Bibhu-shaw](https://github.com/Bibhu-shaw)
+* **Leetcode:** [https://leetcode.com/u/Bibhu019/](https://leetcode.com/u/Bibhu019/)
+* **GitHub:** [https://www.naukri.com/code360/profile/05f321fa-dd4b-4329-bd07-5234a2fd7494](https://www.naukri.com/code360/profile/05f321fa-dd4b-4329-bd07-5234a2fd7494)
 
 ---
 
